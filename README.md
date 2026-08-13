@@ -8,6 +8,12 @@ This project demonstrates the basic concept of a rule-based chatbot. The chatbot
 
 The chatbot continuously interacts with the user until the `bye` command is entered.
 
+## 📸 Demo
+
+Here is the chatbot running in the terminal:
+
+![Rule-Based AI Chatbot Demo](chatbot-demo.png)
+
 ## 🎯 Project Objectives
 
 - Handle greetings and exit commands
